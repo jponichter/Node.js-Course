@@ -1,0 +1,25 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "nodeApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Ponichter",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jponichter/Node.js-Course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jponichter/Node.js-Course/issues"
+  },
+  "homepage": "https://github.com/jponichter/Node.js-Course#readme"
+}
